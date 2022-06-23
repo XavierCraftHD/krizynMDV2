@@ -5,25 +5,25 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['60103907790'] 
+global.mods = ['60103907790'] 
+global.prems = ['60103907790'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'XavierCraftHD'
+global.numberowner = '60103907790'
 global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/warikrr'
+global.github = 'https://github.com/XavierCraftHD'
 global.dana = '085822347348'
 global.pulsa = '085822347348'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.namebot = 'CraftHD Botz'
+global.gc = 'https://chat.whatsapp.com/L3k2ZVXyp6n41VzwRIt2dN'
+global.web = 'https://chat.whatsapp.com/L3k2ZVXyp6n41VzwRIt2dN' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://omlet.gg/s/bIV2btwCPNTglVId5'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU 32 Token Omlet\nMAKSIMAL 1 GRUP\n》1 BULAN  50 Token Omlet\nMAKSIMAL 1 GRUP \n》 100 Token Omlet\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN 1000 Token Omlet\nMAKSIMAL 3 GRUP\n》4 BULAN  200 Token Omlet\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN 300 Token Omlet\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
